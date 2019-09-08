@@ -1,2 +1,7 @@
 # MultiChecker
-A GUI based Apple TSS Tool
+
+### Credits:
+Thanks to:
+- @S0uthwest and @Tihmstar
+- @MTAC8
+- @bossgfx_
