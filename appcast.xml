@@ -3,8 +3,8 @@
 <title>MultiChecker</title>
 <item>
 <title>Release 1.0</title>
-<pubDate>Fr., 20 Sep. 2019 18:04:05 +0200</pubDate>
+<pubDate>Fr., 20 Sep. 2019 18:42:05 +0200</pubDate>
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/PwnedC99/MultiChecker/blob/master/MultiChecker.zip" sparkle:version="1.0" sparkle:shortVersionString="Release 1.0" length="10218729" type="application/octet-stream"/>
+<enclosure url="https://github.com/PwnedC99/MultiChecker/raw/master/MultiChecker.zip" sparkle:version="1.0" sparkle:shortVersionString="Release 1.0" length="10204447" type="application/octet-stream"/>
 </item>
 </channel></rss>
