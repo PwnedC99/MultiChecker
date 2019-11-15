@@ -1,10 +1,10 @@
-<?xml version="1.0.1" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.2" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>MultiChecker</title>
 <item>
-<title>Release 1.0.1</title>
-<pubDate>So., 22 Sep. 2019 17:55:34 +0200</pubDate>
+<title>Release 1.2</title>
+<pubDate>Fr., 15 Nov. 2019 17:17:22 +0100</pubDate>
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/PwnedC99/MultiChecker/raw/master/MultiChecker.zip" sparkle:version="1.0.1" sparkle:edSignature="SGjfZkTpdHVxxKYOHMwuoZMIKGiA76Uoa7HoYcqLdP2GsDxFgqtzV2wq1sTyAWVRD4Ldu+e4eaN6ehYMG4UgCg==" sparkle:shortVersionString="Release 1.0.1" length="11758262" type="application/octet-stream"/>
+<enclosure url="https://github.com/PwnedC99/MultiChecker/raw/master/MultiChecker.zip" sparkle:version="1.2" sparkle:edSignature="Z8tVZfVq/jOcYgSrc62Yw6tHtwGZfAVbW9wQVP4F5m1ZkagK503OGfFqtYhZ8wO8cAsyzCwP536+MRiFcMWXAw==" sparkle:shortVersionString="Release 1.2" length="11758516" type="application/octet-stream"/>
 </item>
 </channel></rss>
